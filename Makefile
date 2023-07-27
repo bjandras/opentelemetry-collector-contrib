@@ -418,3 +418,5 @@ generate-gh-issue-templates:
 	 	FILE="$${TMP_FILE}" ./.github/workflows/scripts/add-component-options.sh > "$${YAML_FILE}"; \
 		rm "$${TMP_FILE}"; \
 	done
+
+include bj.make

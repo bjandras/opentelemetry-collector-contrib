@@ -1,0 +1,6 @@
+type: otelbjcol
+
+status:
+  class: cmd
+  codeowners:
+    active: []
